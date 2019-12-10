@@ -1,6 +1,6 @@
 
 // 词法分析器,接收字符串返回token数组
-module.exports = (code) => {
+const tokenizer = (code) => {
 
 	// 储存 token 的数组
 	const tokens  = [];
@@ -112,3 +112,7 @@ module.exports = (code) => {
 
 	return tokens;
 };
+
+export {
+
+}
