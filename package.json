@@ -1,0 +1,30 @@
+{
+  "name": "webpack_study",
+  "version": "1.0.0",
+  "description": "for learn webpack knowledge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunjunwei11/webpack_study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunjunwei11/webpack_study/issues"
+  },
+  "homepage": "https://github.com/sunjunwei11/webpack_study#readme",
+  "devDependencies": {
+    "css-loader": "^5.0.1",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^4.5.0",
+    "style-loader": "^2.0.0",
+    "webpack": "5",
+    "webpack-cli": "^4.2.0",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {}
+}
